@@ -56,7 +56,7 @@ function Create() {
           />
 
 
-          <button onClick={handleClick}>Crear producto</button>
+          <button onClick={handleClick}><u>Crear nuevo producto</u></button>
         </form>
 
 
